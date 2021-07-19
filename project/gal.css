@@ -1,0 +1,64 @@
+.pack{
+    background-image: url("int.jpg");
+}.pack .write{
+    color: rgba(233, 233, 10, 0.815);
+    padding-left:27%;
+    font-size: 30px;
+    font-weight: 700;
+
+}p{
+    color: rgba(233, 233, 10, 0.815);
+    padding-left:20%;
+    font-size: 30px;
+    font-weight: 500;
+}#pic-1{
+    height: 65%;
+    width: 35%;
+    padding: 40px 30px 30px 80px;
+    transform: rotate(0deg);
+}#pic-2{
+    height: 65%;
+    width: 35%;
+    padding: 40px 30px 30px 10px;
+    transform: rotate(0deg);
+}#pic-3{
+    height: 65%;
+    width: 35%;
+    padding: 50px 10px 30px 80px;
+    transform: rotate(0deg);
+}#pic-4{
+    height: 65%;
+    width: 35%;
+    margin: 50px 30px 30px 80px;
+    transform: rotate(0deg);
+}#pic-5{
+    margin: -150px 30px 40px 100px;
+    transform: rotate(0deg);
+}#pic-6{
+    
+    padding: 40px 30px 30px 80px;
+    transform: rotate(0deg);
+}#pic-7{
+    height: 65%;
+    width: 30%;
+    padding: 40px 30px 30px 80px;
+    transform: rotate(0deg);
+}#pic-8{
+    height: 60%;
+    width: 35%;
+    padding: 40px 30px 30px 80px;
+    transform: rotate(0deg);
+}#pic-9{
+    height: 65%;
+    width: 35%;
+    padding: 40px 30px 30px 80px;
+    transform: rotate(0deg);
+}#pic-10{
+    height: 65%;
+    width: 35%;
+    padding: 40px 30px 30px 80px;
+    transform: rotate(0deg);
+}#pic-11{
+    padding: 40px 30px 30px 380px;
+    transform: rotate(0deg);
+}
